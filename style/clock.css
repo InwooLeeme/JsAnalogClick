@@ -1,0 +1,28 @@
+.clockContainer {
+  width: 50rem;
+  height: 50rem;
+  border-radius: 50%;
+  border: 2rem solid white;
+}
+
+.clockContainer .hand {
+  position: absolute;
+  top: 50%;
+  width: 22em;
+  height: 0.5em;
+  background-color: black;
+  margin-left: 1.5em;
+  transform-origin: 100%;
+}
+
+.clockContainer .hours {
+  transform: rotate(90deg);
+}
+
+.clockContainer .minutes {
+  transform: rotate(90deg);
+}
+
+.clockContainer .seconds {
+  transform: rotate(90deg);
+}
