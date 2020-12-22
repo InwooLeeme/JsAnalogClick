@@ -15,14 +15,8 @@
   transform-origin: 100%;
 }
 
-.clockContainer .hours {
-  transform: rotate(90deg);
-}
-
-.clockContainer .minutes {
-  transform: rotate(90deg);
-}
-
+.clockContainer .hours,
+.clockContainer .minutes,
 .clockContainer .seconds {
   transform: rotate(90deg);
 }
