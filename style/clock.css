@@ -14,9 +14,3 @@
   margin-left: 1.5em;
   transform-origin: 100%;
 }
-
-.clockContainer .hours,
-.clockContainer .minutes,
-.clockContainer .seconds {
-  transform: rotate(90deg);
-}

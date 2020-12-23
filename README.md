@@ -13,4 +13,4 @@ Make an analog click using html,css and vanilla JavaScript.
 - [x] Html format.
 - [x] Reset CSS.
 - [x] Styling like the picture.
-- [ ] Clock function.
+- [x] Clock function.
